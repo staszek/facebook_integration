@@ -2,6 +2,11 @@
   "name": "Facebook integration for rails applications", 
   "sections": 
   [ 
-    {"section":"title"} 
+    {"section":"title"},
+    {"section":"basics"},
+    {"section":"design"},
+    {"section":"deauthorization"},
+    {"section":"usage"},
+    {"section":"tests"}
   ]
 }
